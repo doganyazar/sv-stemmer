@@ -1,0 +1,24 @@
+{
+  "name": "sv-stemmer",
+  "version": "0.1.0",
+  "description": "Stemmer for Swedish",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doganyazar/sv-stemmer.git"
+  },
+  "author": "Dogan Yazar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doganyazar/sv-stemmer/issues"
+  },
+  "homepage": "https://github.com/doganyazar/sv-stemmer#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "tap-spec": "^4.1.1",
+    "tape": "^4.8.0"
+  }
+}
