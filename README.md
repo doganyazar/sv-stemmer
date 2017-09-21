@@ -1,2 +1,2 @@
 # sv-stemmer
-Stemmer for Swedish language
+Stemmer implementing Porter algorightm for Swedish language
